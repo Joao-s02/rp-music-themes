@@ -6,6 +6,12 @@
       "url": "https://raw.githubusercontent.com/Joao-s02/rp-music-themes/5db29647f4c17850303eb808770163e62f669e82/themes/minimalista.rptheme",
       "sha256": "13231d202f36f5f3a6884bb924e5c6eb4f76008a37fbb5d85b2b0ad48752d00e",
       "preview": "previews/minimalista.png"
+    },
+    {
+      "name": "Miku · Turquesa",
+      "url": "https://raw.githubusercontent.com/Joao-s02/rp-music-themes/5dfd9f849fa9784ceacf20e9bed8aa411fa2d7b5/themes/miku-turquesa.rptheme",
+      "sha256": "7f6189718db081110915a221d78731d9291438021a8d7b2437e93595279f95cf",
+      "preview": "previews/miku-turquesa.png"
     }
   ]
 }
