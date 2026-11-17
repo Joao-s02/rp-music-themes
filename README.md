@@ -1,12 +1,12 @@
 # RP Music Themes
 
-Catálogo comunitario de temas visuales para RP Music 0.4.0 y versiones compatibles.
+Catálogo comunitario de temas visuales para RP Music 0.4.0 y 0.4.1. Las revisiones se eligen según la compatibilidad de la app.
 
 Los temas cambian colores, fondos, iconos de reproducción y navegación, e imágenes decorativas. RP Music conserva la distribución de las pantallas y las acciones de los controles.
 
 ## Instalar
 
-En RP Music, abre **Temas**, elige un tema y pulsa **Descargar**. También puedes descargar [el archivo del tema](themes/minimalista.rptheme) y abrirlo desde **Temas → Importar tema**. El tema instalado funciona sin conexión.
+En RP Music 0.4.1 abre **Temas → Catálogo** y pulsa **Descargar** o **Actualizar tema**. También puedes descargar [el archivo del tema](themes/minimalista.rptheme) y abrirlo desde **Temas → Descargados → Importar tema**. El tema instalado funciona sin conexión.
 
 ## Crear y proponer un tema
 
@@ -18,7 +18,7 @@ En RP Music, abre **Temas**, elige un tema y pulsa **Descargar**. También puede
 
 [Tema anime inspirado en Miku](docs/MIKU-TURQUESA.md), con fondo ilustrado, retrato chibi e iconos personalizados.
 
-![Miku · Turquesa](previews/miku-turquesa.png)
+![Miku · Turquesa](previews/miku-turquesa-v2.png)
 
 ## Primer tema de prueba
 

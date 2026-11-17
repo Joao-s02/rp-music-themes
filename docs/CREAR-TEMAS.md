@@ -47,3 +47,9 @@ Usa iconos cuadrados con fondo transparente. El tamaño máximo es 512 × 512 po
 ## Catálogo
 
 RP Music 0.4.0 consulta el catálogo de [rp-music-themes](https://github.com/Joao-s02/rp-music-themes). Para pruebas de desarrollo se puede sustituir la dirección con `RP_MUSIC_THEME_CATALOG` mediante `--dart-define` al compilar. Un valor vacío usa Minimalista como catálogo local de prueba. El índice HTTPS contiene `version: 1` y una lista `themes`. Cada entrada incluye `name`, `url` HTTPS del paquete y `sha256` en hexadecimal. `preview` es la URL HTTPS opcional de la captura. Las rutas relativas se resuelven desde el índice. El servidor de paquetes debe responder directamente, sin redirecciones. La app compara el SHA-256 del paquete descargado antes de instalarlo.
+
+## Recursos y actualizaciones desde 0.4.1
+
+La app admite lyrics, queue, volume, details, favorite/favoriteSelected, playlistAdd/playlistRemove/playlistCover, add, back, search, refresh, folder, artist, album, more, delete, filter y sortAscending/sortDescending. La imagen decoration se comparte en los encabezados. Para recursos nuevos declara minAppVersion 0.4.1 y minAppBuild 33.
+
+Conserva el nombre e incrementa revision al modificar el paquete. La entrada del catálogo mantiene el paquete base y puede añadir updates con revision, URL inmutable, SHA-256 y mínimos de app/build. 0.4.1 elige la revisión compatible más alta; 0.4.0 sigue usando el paquete base. No cambies los bytes ni el hash de una URL publicada para simular una revisión.

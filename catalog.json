@@ -11,7 +11,17 @@
       "name": "Miku · Turquesa",
       "url": "https://raw.githubusercontent.com/Joao-s02/rp-music-themes/5dfd9f849fa9784ceacf20e9bed8aa411fa2d7b5/themes/miku-turquesa.rptheme",
       "sha256": "7f6189718db081110915a221d78731d9291438021a8d7b2437e93595279f95cf",
-      "preview": "previews/miku-turquesa.png"
+      "preview": "previews/miku-turquesa.png",
+      "updates": [
+        {
+          "revision": 2,
+          "minAppVersion": "0.4.1",
+          "minAppBuild": 33,
+          "url": "https://raw.githubusercontent.com/Joao-s02/rp-music-themes/4f4fbbb5bad520eff63827470472b67594630833/themes/miku-turquesa-v2.rptheme",
+          "sha256": "91179afbdd24fdf08e93d95819d135ac891c8ee5200eddb5a2dfb698c209e658",
+          "preview": "previews/miku-turquesa-v2-player.png"
+        }
+      ]
     }
   ]
 }
