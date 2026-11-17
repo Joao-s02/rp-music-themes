@@ -6,13 +6,19 @@ Los temas cambian colores, fondos, iconos de reproducción y navegación, e imá
 
 ## Instalar
 
-En RP Music, abre **Temas**, elige **Minimalista** y pulsa **Descargar**. También puedes descargar [el archivo del tema](themes/minimalista.rptheme) y abrirlo desde **Temas → Importar tema**. El tema instalado funciona sin conexión.
+En RP Music, abre **Temas**, elige un tema y pulsa **Descargar**. También puedes descargar [el archivo del tema](themes/minimalista.rptheme) y abrirlo desde **Temas → Importar tema**. El tema instalado funciona sin conexión.
 
 ## Crear y proponer un tema
 
 1. Copia [la plantilla](templates/mi-tema.rptheme) y cambia su nombre y colores.
 2. Sigue [la guía de creación](docs/CREAR-TEMAS.md) para añadir imágenes y probar el resultado.
 3. Revisa [cómo contribuir](CONTRIBUTING.md) y envía una solicitud de cambios con tu tema y sus capturas.
+
+## Miku · Turquesa
+
+[Tema anime inspirado en Miku](docs/MIKU-TURQUESA.md), con fondo ilustrado, retrato chibi e iconos personalizados.
+
+![Miku · Turquesa](previews/miku-turquesa.png)
 
 ## Primer tema de prueba
 
