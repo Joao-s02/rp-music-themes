@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "themes": [
+    {
+      "name": "Minimalista",
+      "url": "themes/minimalista.rptheme",
+      "sha256": "13231d202f36f5f3a6884bb924e5c6eb4f76008a37fbb5d85b2b0ad48752d00e",
+      "preview": "previews/minimalista.png"
+    }
+  ]
+}
