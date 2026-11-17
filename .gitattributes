@@ -1,2 +1,2 @@
-*.rptheme -text
+*.rptheme -text whitespace=cr-at-eol
 *.png binary

@@ -13,3 +13,5 @@ Para obtener el hash en Windows puedes usar Get-FileHash con el algoritmo SHA256
 La plantilla y Minimalista sirven para aprender el formato. La licencia general del proyecto está pendiente de elección. Los recursos de terceros deben conservar sus créditos y sus términos específicos.
 
 Conserva el archivo .gitattributes del repositorio. Los paquetes .rptheme preservan sus bytes en Git para que el SHA-256 calculado localmente coincida con la descarga. Calcula la huella después de guardar el paquete final.
+
+El catálogo puede fijar la descarga a la revisión de Git que contiene el paquete aprobado. Primero se incorpora el paquete y luego se actualiza su entrada con la URL de esa revisión y el hash de sus bytes. Esto conserva juntas la versión revisada y su huella.
