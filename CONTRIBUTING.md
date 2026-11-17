@@ -11,3 +11,5 @@ El mantenimiento del catálogo revisa el archivo, la legibilidad de textos y est
 Para obtener el hash en Windows puedes usar Get-FileHash con el algoritmo SHA256. En Linux o macOS puedes usar sha256sum o shasum -a 256. Usa el hash de los bytes finales del archivo y minúsculas al editar el catálogo.
 
 La plantilla y Minimalista sirven para aprender el formato. La licencia general del proyecto está pendiente de elección. Los recursos de terceros deben conservar sus créditos y sus términos específicos.
+
+Conserva el archivo .gitattributes del repositorio. Los paquetes .rptheme preservan sus bytes en Git para que el SHA-256 calculado localmente coincida con la descarga. Calcula la huella después de guardar el paquete final.
